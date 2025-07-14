@@ -46,6 +46,7 @@ jupyter notebook Adversarial_Project.ipynb
 ```
 
 3. Ensure you mount Google Drive if you're using pretrained models stored online.
+   https://drive.google.com/drive/folders/1EI0MW_KRz4aXgskkc1owy-g4ffjilK8A?usp=drive_link
 
 ##  Example Workflow
 
