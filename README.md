@@ -1,6 +1,8 @@
 #  Adversarial Defense Project: Defending Neural Networks Using Classic and Deep Learning Techniques
 
-This project explores multiple defenses against adversarial attacks on image classification models. The techniques range from simple image pre-processing (e.g., JPEG compression, Gaussian blur) to more sophisticated neural network-based approaches like **Autoencoders** and **U-Net**.
+This project explores multiple defenses against adversarial attacks on image classification models. The techniques range from simple image pre-processing (e.g., JPEG compression, Gaussian blur) to more sophisticated neural network-based approaches like **Autoencoders** and **U-Net**.Designed a patch attack on real-time camera input, adding patches to the first frame to misclassify
+objects. Utilized SuperPoints detector to identify matching points across frames for
+consistent patch application.
 
 ##  Defenses Implemented
 
